@@ -1,0 +1,59 @@
+               WINDOWS 7 REMASTERED PACK (CODENAME SPACE)
+
+                      
+                      Version 1.0- Fan project
+
+
+                            
+                              About Project
+
+Windows Codename SPACE-Fan pack for windows (7, 8, 8.1, 10, Server 2016.),
+
+that includes custom wallpapers and an animated screensaver with music.
+
+                               
+
+                                 Content
+
+Wallpapers- wallpapers created by the author.
+
+ScreenSaver-a screensaver with animation and sound.
+
+                    
+
+                        Installing the screensaver
+
+Install "any video screensaver"
+
+Open the Windows screensaver settings
+
+Choose "any video screensaver" as screensaver and click on "options"
+In the
+window that appears, select the path to the video file. Then close the 
+window. 
+If the screensaver starts, then you have done
+
+everything correctly.
+
+                          
+
+                                Potential problem
+
+If the message "Video file not found" appears, re-specify the path to the 
+
+video file in the screensaver settings.
+
+                                  
+                                       
+
+                                     NOTE
+
+THIS IS UNOFFICIAL FAN PROJECT, NOT AFFILIATED WITH MICROSOFT. WINDOWS AND
+
+WINDOWS LONGHORN ARE MICROSOFT PRODUCTS.
+
+
+                              
+                                 
+                                   
+                                  Enjoy using!
